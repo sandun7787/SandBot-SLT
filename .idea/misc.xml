@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SB/San/app/src/main/res/layout/activity_base.xml" value="0.1331293037490436" />
+        <entry key="..\:/SB/San/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/SB/San/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/San/app/src/main/res/layout/activity_base.xml" value="0.14967105263157895" />
+        <entry key="..\:/San/app/src/main/res/layout/activity_main.xml" value="0.14967105263157895" />
+        <entry key="..\:/Users/User/Desktop/SANBot/San/app/src/main/res/layout/activity_base.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/SANBot/San/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/User/Desktop/SANBot/San/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/SANBot/San/app/src/main/res/layout/activity_video.xml" value="0.2" />
+        <entry key="..\:/Users/User/Desktop/SANBot/app/src/main/res/layout/activity_base.xml" value="0.5" />
+        <entry key="..\:/Users/User/Desktop/SANBot/app/src/main/res/layout/activity_inquiries.xml" value="0.22" />
+        <entry key="..\:/Users/User/Desktop/SANBot/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/SANBot/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/SANBot/app/src/main/res/layout/activity_video.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

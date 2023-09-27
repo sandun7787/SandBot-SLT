@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">San</string>
+
+    <!--**** SPEAKING **** -->
+    <string name="Welcome_to_Techno_2023_We_are_glad_that_you_are_here">Welcome to Techno 2023! We are glad that you are here</string>
+    <string name="Top_of_the_morning_to_you">Top Of The Morning To You</string>
+    <string name="Good_Morning">Good Morning</string>
+    <string name="Good_Afternoon">Good Afternoon</string>
+    <string name="Good_Evening">GoodE Evening</string>
+
+
+</resources>
